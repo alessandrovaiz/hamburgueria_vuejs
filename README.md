@@ -1,19 +1,20 @@
 # projeto_starter_vuejs
+Este projeto foi criado com o intuito de aprender os conceitos do VueJs. Trata-se de um sistema para montar o próprio hamburguer e também uma área para gerenciamento dos pedidos.
 
-## Project setup
+Foi utilizado uma api falsa com o pacote json-server, onde simula um backend para o site através de um arquivo json. 
+No frontend foi utilizado HTML, css e fetch
+
+## Setup do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar o vuejs
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Rodar json-serve
 ```
-npm run build
+npm run backend
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
