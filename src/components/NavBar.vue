@@ -8,7 +8,7 @@
 
 <script>
 export default {
-    name: 'NavBar',
+    name: 'Navbar',
     props: ['logo','alt']
 };
 </script>
