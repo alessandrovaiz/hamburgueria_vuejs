@@ -79,72 +79,12 @@
   ],
   "orders": [
     {
-      "nome": "Matheus Battisti",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "optionals": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Finalizado",
+      "name": null,
+      "meat": null,
+      "bread": null,
+      "optionals": [],
+      "status": "Solicitado",
       "id": 1
-    },
-    {
-      "nome": "João Coelho",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "optionals": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "name": "res",
-      "meat": "Maminha",
-      "bread": "Italiano Branco",
-      "optionals": [
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "name": "teste",
-      "meat": "Alcatra",
-      "bread": "Italiano Branco",
-      "optionals": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "name": "123",
-      "meat": "Maminha",
-      "bread": "Italiano Branco",
-      "optionals": [],
-      "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "name": "4451",
-      "meat": "Alcatra",
-      "bread": "Italiano Branco",
-      "optionals": [],
-      "status": "Solicitado",
-      "id": 8
-    },
-    {
-      "name": "",
-      "meat": "",
-      "bread": "",
-      "optionals": [],
-      "status": "Solicitado",
-      "id": 9
     }
   ]
 }
